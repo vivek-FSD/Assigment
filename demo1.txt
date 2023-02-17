@@ -1,4 +1,2 @@
 this is sampple 1 
 This is a learning session for git hub
-sample 2
-deleted
